@@ -1,7 +1,7 @@
 {
-  "name": "jumpstart",
+  "name": "@wearethreebears/jumpstart",
   "version": "0.1.0",
-  "description": "",
+  "description": "Quickstart components for Nuxt",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "@wearethreebears/jumpstart": "file:src/lib"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wearethreebears/jumpstart-src.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wearethreebears/jumpstart-src/issues"
+  },
+  "homepage": "https://github.com/wearethreebears/jumpstart-src#readme"
 }
