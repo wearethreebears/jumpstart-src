@@ -1,5 +1,5 @@
 {
-  "name": "@wearethreebears/jumpstart",
+  "name": "@wearethreebears/jumpstart-js",
   "version": "0.1.0",
   "description": "Quickstart components for Nuxt",
   "main": "index.js",
