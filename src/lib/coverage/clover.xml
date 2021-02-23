@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1614113980605" clover="3.2.0">
+  <project timestamp="1614113980605" name="All files">
+    <metrics statements="123" coveredstatements="111" conditionals="24" coveredconditionals="14" methods="62" coveredmethods="57" elements="209" coveredelements="182" complexity="0" loc="123" ncloc="123" packages="6" files="16" classes="16"/>
+    <package name="button">
+      <metrics statements="17" coveredstatements="17" conditionals="8" coveredconditionals="6" methods="12" coveredmethods="12"/>
+      <file name="ButtonDefault.vue" path="/Users/liamhall/Documents/web-development/opensource/jumpstart/src/lib/components/button/ButtonDefault.vue">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="15" count="14" type="stmt"/>
+        <line num="22" count="14" type="cond" truecount="2" falsecount="0"/>
+      </file>
+      <file name="ButtonLink.vue" path="/Users/liamhall/Documents/web-development/opensource/jumpstart/src/lib/components/button/ButtonLink.vue">
+        <metrics statements="4" coveredstatements="4" conditionals="6" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="19" count="18" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="9" type="cond" truecount="1" falsecount="1"/>
+        <line num="27" count="9" type="cond" truecount="1" falsecount="1"/>
+      </file>
+      <file name="JumpstartButton.vue" path="/Users/liamhall/Documents/web-development/opensource/jumpstart/src/lib/components/button/JumpstartButton.vue">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="7"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="25" count="32" type="stmt"/>
+        <line num="40" count="32" type="stmt"/>
+        <line num="49" count="32" type="stmt"/>
+        <line num="55" count="2" type="stmt"/>
+        <line num="56" count="2" type="stmt"/>
+        <line num="61" count="32" type="stmt"/>
+        <line num="65" count="32" type="stmt"/>
+      </file>
+    </package>
+    <package name="form">
+      <metrics statements="21" coveredstatements="21" conditionals="2" coveredconditionals="1" methods="9" coveredmethods="9"/>
+      <file name="FormError.vue" path="/Users/liamhall/Documents/web-development/opensource/jumpstart/src/lib/components/form/FormError.vue">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="20" count="9" type="stmt"/>
+      </file>
+      <file name="FormGroup.vue" path="/Users/liamhall/Documents/web-development/opensource/jumpstart/src/lib/components/form/FormGroup.vue">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="24" count="6" type="stmt"/>
+      </file>
+      <file name="FormInput.vue" path="/Users/liamhall/Documents/web-development/opensource/jumpstart/src/lib/components/form/FormInput.vue">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="1" methods="3" coveredmethods="3"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="37" count="8" type="stmt"/>
+        <line num="54" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="58" count="8" type="stmt"/>
+      </file>
+      <file name="FormLabel.vue" path="/Users/liamhall/Documents/web-development/opensource/jumpstart/src/lib/components/form/FormLabel.vue">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="27" count="13" type="stmt"/>
+        <line num="31" count="13" type="stmt"/>
+      </file>
+      <file name="FormWrapper.vue" path="/Users/liamhall/Documents/web-development/opensource/jumpstart/src/lib/components/form/FormWrapper.vue">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="23" count="4" type="stmt"/>
+        <line num="30" count="4" type="stmt"/>
+      </file>
+    </package>
+    <package name="image">
+      <metrics statements="27" coveredstatements="20" conditionals="2" coveredconditionals="0" methods="9" coveredmethods="6"/>
+      <file name="JumpstartImage.vue" path="/Users/liamhall/Documents/web-development/opensource/jumpstart/src/lib/components/image/JumpstartImage.vue">
+        <metrics statements="27" coveredstatements="20" conditionals="2" coveredconditionals="0" methods="9" coveredmethods="6"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="39" count="18" type="stmt"/>
+        <line num="47" count="18" type="stmt"/>
+        <line num="48" count="18" type="stmt"/>
+        <line num="52" count="18" type="stmt"/>
+        <line num="56" count="18" type="stmt"/>
+        <line num="62" count="49" type="stmt"/>
+        <line num="70" count="49" type="stmt"/>
+        <line num="78" count="7" type="stmt"/>
+        <line num="79" count="7" type="stmt"/>
+        <line num="80" count="7" type="stmt"/>
+        <line num="81" count="7" type="stmt"/>
+        <line num="82" count="7" type="stmt"/>
+        <line num="83" count="7" type="stmt"/>
+        <line num="84" count="7" type="stmt"/>
+        <line num="85" count="7" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="87" count="0" type="stmt"/>
+        <line num="88" count="0" type="stmt"/>
+        <line num="94" count="18" type="stmt"/>
+        <line num="95" count="0" type="stmt"/>
+        <line num="98" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="99" count="0" type="stmt"/>
+        <line num="103" count="18" type="stmt"/>
+        <line num="107" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="layout">
+      <metrics statements="17" coveredstatements="17" conditionals="6" coveredconditionals="3" methods="9" coveredmethods="9"/>
+      <file name="Grid.vue" path="/Users/liamhall/Documents/web-development/opensource/jumpstart/src/lib/components/layout/Grid.vue">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+      </file>
+      <file name="GridSection.vue" path="/Users/liamhall/Documents/web-development/opensource/jumpstart/src/lib/components/layout/GridSection.vue">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="43" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="54" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="65" count="4" type="stmt"/>
+      </file>
+      <file name="GridSectionSpan.vue" path="/Users/liamhall/Documents/web-development/opensource/jumpstart/src/lib/components/layout/GridSectionSpan.vue">
+        <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="32" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="43" count="3" type="stmt"/>
+      </file>
+      <file name="Spacer.vue" path="/Users/liamhall/Documents/web-development/opensource/jumpstart/src/lib/components/layout/Spacer.vue">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="tabs">
+      <metrics statements="28" coveredstatements="23" conditionals="4" coveredconditionals="2" methods="15" coveredmethods="13"/>
+      <file name="Tabs.vue" path="/Users/liamhall/Documents/web-development/opensource/jumpstart/src/lib/components/tabs/Tabs.vue">
+        <metrics statements="28" coveredstatements="23" conditionals="4" coveredconditionals="2" methods="15" coveredmethods="13"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="47" count="1" type="stmt"/>
+        <line num="61" count="12" type="stmt"/>
+        <line num="67" count="12" type="stmt"/>
+        <line num="74" count="12" type="stmt"/>
+        <line num="78" count="12" type="stmt"/>
+        <line num="82" count="12" type="stmt"/>
+        <line num="86" count="12" type="stmt"/>
+        <line num="90" count="12" type="stmt"/>
+        <line num="94" count="12" type="stmt"/>
+        <line num="98" count="12" type="stmt"/>
+        <line num="104" count="1" type="stmt"/>
+        <line num="108" count="1" type="stmt"/>
+        <line num="110" count="1" type="stmt"/>
+        <line num="111" count="1" type="stmt"/>
+        <line num="115" count="1" type="stmt"/>
+        <line num="117" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="118" count="2" type="stmt"/>
+        <line num="120" count="1" type="stmt"/>
+        <line num="125" count="1" type="stmt"/>
+        <line num="127" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="128" count="2" type="stmt"/>
+        <line num="130" count="1" type="stmt"/>
+        <line num="133" count="0" type="stmt"/>
+        <line num="137" count="0" type="stmt"/>
+        <line num="141" count="0" type="stmt"/>
+        <line num="143" count="0" type="stmt"/>
+        <line num="146" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="text">
+      <metrics statements="13" coveredstatements="13" conditionals="2" coveredconditionals="2" methods="8" coveredmethods="8"/>
+      <file name="TextBody.vue" path="/Users/liamhall/Documents/web-development/opensource/jumpstart/src/lib/components/text/TextBody.vue">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="34" count="7" type="stmt"/>
+        <line num="43" count="7" type="stmt"/>
+        <line num="50" count="7" type="stmt"/>
+        <line num="54" count="7" type="stmt"/>
+      </file>
+      <file name="TextTitle.vue" path="/Users/liamhall/Documents/web-development/opensource/jumpstart/src/lib/components/text/TextTitle.vue">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="8" type="stmt"/>
+        <line num="25" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="46" count="8" type="stmt"/>
+        <line num="61" count="8" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
