@@ -9,7 +9,7 @@
   "author": "Liam Hall",
   "license": "ISC",
   "dependencies": {
-    "@wearethreebears/jumpstart": "@wearethreebears/jumpstart"
+    "@wearethreebears/jumpstart": "^0.4.0"
   },
   "devDependencies": {},
   "repository": {
