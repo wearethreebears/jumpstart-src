@@ -1,5 +1,5 @@
-import { KeyValuePair } from '~/interfaces/Common'
-import { Breakpoints as BreakpointsInterface} from '~/interfaces/Breakpoint'
+import { KeyValuePair } from '../node_modules/@wearethreebears/jumpstart/interfaces/Common'
+import { Breakpoints as BreakpointsInterface} from '../node_modules/@wearethreebears/jumpstart/interfaces/Breakpoint'
 
 
 export const Breakpoints : BreakpointsInterface = {

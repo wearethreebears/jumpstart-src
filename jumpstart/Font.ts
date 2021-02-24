@@ -1,5 +1,5 @@
-import { KeyValuePairWithDefault } from '~/interfaces/Common'
-import { Boilerplate } from '~/interfaces/Boilerplate'
+import { KeyValuePairWithDefault } from '../node_modules/@wearethreebears/jumpstart/interfaces/Common'
+import { Boilerplate } from '../node_modules/@wearethreebears/jumpstart/interfaces/Boilerplate'
 
 export const FontBoilerplate : Boilerplate  = {
     class: ''

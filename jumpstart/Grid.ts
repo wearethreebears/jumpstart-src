@@ -1,5 +1,5 @@
-import { Boilerplate } from '~/interfaces/Boilerplate'
-import { KeyValuePairWithDefault } from '~/interfaces/Common'
+import { Boilerplate } from '../node_modules/@wearethreebears/jumpstart/interfaces/Boilerplate'
+import { KeyValuePairWithDefault } from '../node_modules/@wearethreebears/jumpstart/interfaces/Common'
 
 export const GridBoilerplate : Boilerplate = {
     'class': 'grid',

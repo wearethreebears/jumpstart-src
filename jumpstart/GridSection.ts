@@ -1,5 +1,5 @@
-import { Boilerplate } from '~/interfaces/Boilerplate'
-import { GridSectionPart } from '~/interfaces/Grid'
+import { Boilerplate } from '../node_modules/@wearethreebears/jumpstart/interfaces/Boilerplate'
+import { GridSectionPart } from '../node_modules/@wearethreebears/jumpstart/interfaces/Grid'
 
 export const  GridSectionBoilerplate : Boilerplate = {
     class: ''

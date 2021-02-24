@@ -1,4 +1,4 @@
-import { TabBoilerplate as TabBoilerplateInterface } from 'interfaces/Tab'
+import { TabBoilerplate as TabBoilerplateInterface } from '../node_modules/@wearethreebears/jumpstart/interfaces/Tab'
 
 export const TabBoilerplate : TabBoilerplateInterface = {
     class: '',

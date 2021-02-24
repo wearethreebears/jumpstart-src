@@ -1,6 +1,6 @@
-import { KeyValuePairWithDefault } from '~/interfaces/Common'
-import { Boilerplate } from '~/interfaces/Boilerplate'
-import { ButtonStyle as ButtonStyleInterface } from '~/interfaces/Button'
+import { KeyValuePairWithDefault } from '../node_modules/@wearethreebears/jumpstart/interfaces/Common'
+import { Boilerplate } from '../node_modules/@wearethreebears/jumpstart/interfaces/Boilerplate'
+import { ButtonStyle as ButtonStyleInterface } from '../node_modules/@wearethreebears/jumpstart/interfaces/Button'
 
 export const ButtonBoilerplate : Boilerplate = {
     class: ''

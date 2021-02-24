@@ -1,5 +1,5 @@
-import { Boilerplate } from '~/interfaces/Boilerplate'
-import { FormLabel } from '~/interfaces/Form'
+import { Boilerplate } from '../node_modules/@wearethreebears/jumpstart/interfaces/Boilerplate'
+import { FormLabel } from '../node_modules/@wearethreebears/jumpstart/interfaces/Form'
 
 export const FormWrapperBoilerplate : Boilerplate = {
     'class': '',

@@ -1,4 +1,4 @@
-import { ImageBoilerplate as ImageBoilerplateInterface } from 'interfaces/Image'
+import { ImageBoilerplate as ImageBoilerplateInterface } from '../node_modules/@wearethreebears/jumpstart/interfaces/Image'
 
 export const ImageBoilerplate : ImageBoilerplateInterface  = {
     class: 'relative h-0',
