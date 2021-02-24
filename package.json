@@ -1,15 +1,15 @@
 {
   "name": "@wearethreebears/jumpstart-js",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Quickstart components for Nuxt",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Liam Hall]",
+  "author": "Liam Hall",
   "license": "ISC",
   "dependencies": {
-    "@wearethreebears/jumpstart": "file:src/lib"
+    "@wearethreebears/jumpstart": "@wearethreebears/jumpstart"
   },
   "devDependencies": {},
   "repository": {
